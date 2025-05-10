@@ -32,7 +32,7 @@ De asemnea, am adăugat și specifiațiile corepsunzătoare fiecărei metode.
 <ins>Alte precizări:</ins>
 
 Inițial, am dorit să creez un GUI folosind Windows Forms, însă am realizat
-că această alegere nu era cea mai potirvită. Motivul principal este că
+că această alegere nu era cea mai potrivită. Motivul principal este că
 Windows Forms este dependent de Windows, ceea ce înseamnă că cineva care verifică
 aplicația și folosește macOS sa Linux nu ar putea rula aplicația corect.
 
