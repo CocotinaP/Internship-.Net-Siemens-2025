@@ -24,7 +24,7 @@ au fost împrumutate**</ins>. (Un fel de top al celor mai împrumutate cărți, 
 împrumutate.)
 
 Am tratat corespunzător cazurile excepționale și am asigurat faptul că nu se pot împrumuta
-mai multe exemplare ale unei cărți dacă nu sunt atâtea și că nu se pot retuna mai multe cărți decât
+mai multe exemplare ale unei cărți dacă nu sunt atâtea și că nu se pot returna mai multe cărți decât
 numărul exemplarelor pe care le deține biblioteca.
 
 De asemnea, am adăugat și specifiațiile corepsunzătoare fiecărei metode.
