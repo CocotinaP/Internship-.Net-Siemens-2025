@@ -43,6 +43,7 @@ Pe viitor, intenționez să dobândesc și cunoștiințe despre tehnologii în c
 pot dezvolta aplicații GUI cross-paltform, precum Avalonia sau MAUI.
 
 <ins>Descrierea modului de utilizare:</ins>
+
 La început vor apărea opțiunile posibile:
 
 ![menu.jpg](description/image/menu.jpg)
