@@ -1,25 +1,25 @@
 Aceasta este soluția propusă de mine pentru problema pentru **Internship .Net Siemens 2025.**
 
-Am realizat o aplicație la **consolă** pentru a vă ușura procesul de configurare, considerând că,
+Am realizat o aplicație la #**consolă** pentru a vă ușura procesul de configurare, considerând că,
 în situația de față, este mai importantă verificare funcționalităților și a arhitecturii codului, decât aspectul (la care,
 dacă va fi cazul, voi insista mai mult în viitor). Am încercat ca mesajele și informațiile oferite
 în consolă să fie cât mai prietenoase și intuitive pentru utilizator.
 
-Tot ce trebuie să faceți pentru a rula aplicația este să **clonați** repository-ul publicat
+Tot ce trebuie să faceți pentru a rula aplicația este să #**clonați** repository-ul publicat
 pe GiHub și să-l rulați într-un IDE cu .NET 8+.
 
-Pentru **persitență** am folosit o bază de date **SQLite** și **Entity Framework**.
-Am ales SQLite pentru că nu necesită un server separat, este **embedded**,
+Pentru #**persitență** am folosit o bază de date #**SQLite** și #**Entity Framework**.
+Am ales SQLite pentru că nu necesită un server separat, este #**embedded**,
 ceea ce înseamnă că baza de date este doar un **fișier** . Acest lucru este foarte convenabil și util
 în acest context, deoarece am plasat fișierul bazei de date în directorul proiectului, deci aplicația
 poate fi rulată fără instalarea unui software suplimentar.
 
-**FUNCȚIONALITĂȚILE PROPUSE DE MINE:**
-1. Am consiedart că este utilă **vizualizarea împrumuturilor**. Se poate alege ce fel de împrumuturi
+#**FUNCȚIONALITĂȚILE PROPUSE DE MINE:**
+1. Am consiedart că este utilă #**vizualizarea împrumuturilor**. Se poate alege ce fel de împrumuturi
 se doresc a fi vizulizate: toate, cele returnate, sau cele nereturnate.
-2. **Vizualizarea împrumuturilor nereturnate care au depășit data limită de retunare** (am considerat
+2. #**Vizualizarea împrumuturilor nereturnate care au depășit data limită de retunare** (am considerat
 că data limită de retunare a unui împrumut este de 3 săptămâni).
-3. **Vizualizarea cărților împrumutate în anul curent, ordonate descrescător în funcție de câte ori
+3. #**Vizualizarea cărților împrumutate în anul curent, ordonate descrescător în funcție de câte ori
 au fost împrumutate**. (Un fel de top al celor mai împrumutate cărți, doar că acesta cuprinde toate cărțile
 împrumutate.)
 
