@@ -17,7 +17,7 @@ poate fi rulată fără instalarea unui software suplimentar.
 <ins>**FUNCȚIONALITĂȚILE PROPUSE DE MINE:**</ins>
 1. Am consiedart că este utilă <ins>**vizualizarea împrumuturilor**</ins>. Se poate alege ce fel de împrumuturi
 se doresc a fi vizulizate: toate, cele returnate, sau cele nereturnate.
-2. <ins>**Vizualizarea împrumuturilor nereturnate care au depășit data limită de retunare</ins> (am considerat
+2. <ins>**Vizualizarea împrumuturilor nereturnate care au depășit data limită de retunare**</ins> (am considerat
 că data limită de retunare a unui împrumut este de 3 săptămâni).
 3. <ins>**Vizualizarea cărților împrumutate în anul curent, ordonate descrescător în funcție de câte ori
 au fost împrumutate**</ins>. (Un fel de top al celor mai împrumutate cărți, doar că acesta cuprinde toate cărțile
