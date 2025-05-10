@@ -59,7 +59,7 @@ altfel unul roșu în care sunt menționate erorile.
 
 ![addBook.png](description/image/addBook.png)
 
-Dacă tastați **2**, înseamnă că doritți **modificare unei cărți**.
+Dacă tastați **2**, înseamnă că doriți **modificarea unei cărți**.
 Vi se vor cere pe rând datele cărții (noi), iar la final, dacă modificarea
 este realizată cu succes, vi se va afișa un mesaj verde de confirmare,
 altfel unul roșu în care sunt menționate erorile.
@@ -75,7 +75,8 @@ altfel unul roșu în care sunt menționate erorile.
 
 Dacă tastați **4**, optați pentru **filtrarea cărților**, în acest caz, vi se vor afișa
 criteriile disponibile de filtrare și trebuie să completați cu valorile corespunzătoare
-filtrărilor pe care doriți să le faceți.
+filtrărilor pe care doriți să le faceți. Dacă doriți să adăugați mai multe valori de filtrare
+unui criteriu, valorile vor trebui să fie pe aceeași linie, separte prin **|**.
 
 ![filterBooks.png](description/image/filterBooks.png)
 
@@ -97,12 +98,12 @@ altfel unul roșu în care sunt menționate erorile.
 ![addBorrowing.png](description/image/addBorrowing.png)
 
 Dacă tastați **7**, veți opta pentru **returnarea unui împrumut**. Vi se va cere
-ID-ul îmrpumtului. Dacă împrumutl este realizat cu succes, vi se va afișa un mesaj verde de confirmare,
+ID-ul îmrpumtului. Dacă împrumutul este realizat cu succes, vi se va afișa un mesaj verde de confirmare,
 altfel unul roșu în care sunt menționate erorile.
 
 ![returnBorrowing.png](description/image/returnBorrowing.png)
 
-Dacă tastați **8**, se vor **afișa împrumuturile neretunate, care au
+Dacă tastați **8**, se vor **afișa împrumuturile nereturnate, care au
 depășit termenul limită de returnare** sau un mesaj care specifică faptul că
 nu sunt astfel de împrumuturi.
 
