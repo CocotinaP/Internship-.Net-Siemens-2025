@@ -27,7 +27,7 @@ Am tratat corespunzător cazurile excepționale și am asigurat faptul că nu se
 mai multe exemplare ale unei cărți dacă nu sunt atâtea și că nu se pot returna mai multe cărți decât
 numărul exemplarelor pe care le deține biblioteca.
 
-De asemnea, am adăugat și specifiațiile corepsunzătoare fiecărei metode.
+De asemenea, am adăugat și specifiațiile corespunzătoare fiecărei metode.
 
 <ins>Alte precizări:</ins>
 
